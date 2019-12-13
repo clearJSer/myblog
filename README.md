@@ -1,5 +1,5 @@
 # myblog-template
-博客系统前台模板，基于React+Hooks+next.js+markdown驱动，可以支持SEO。
+博客系统前台模板，基于React+Hooks+next.js+markdown+antd 驱动，可以支持SEO。
 
 模板参考[技术胖](www.jspang.com)博客
 
