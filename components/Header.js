@@ -29,7 +29,7 @@ const Header = () => {
       <Row type="flex" justify="center">
         <Col xs={24} sm={24} md={10} lg={15} xl={12}>
           <span className="logo">Fire1024</span>
-          <span className="logo-text">进击的程序员</span>
+          <span className="logo-text">编程成长之路</span>
         </Col>
         <Col xs={0} sm={0} md={14} lg={8} xl={6}>
           <Menu mode="horizontal"  onClick={handleClick}>

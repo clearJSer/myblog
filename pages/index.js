@@ -35,7 +35,7 @@ const Home = list => {
   return (
     <div>
       <Head>
-        <title>Hello Fire</title>
+        <title>编程成长之路</title>
       </Head>
       <Header />
       <Row type="flex" justify="center" className="comm-main">
