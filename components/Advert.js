@@ -3,9 +3,9 @@ import '../static/style/components/advert.css'
  const Advert = ()=>{
     return (
         <div className="ad-div comm-box">
-          <div><img src="http://blogimages.jspang.com/flutter_ad2.jpg" width="100%" /></div>
-          <div><img src="http://blogimages.jspang.com/Vue_koa_ad1.jpg" width="100%" /></div>
-          <div><img src="http://blogimages.jspang.com/WechatIMG12.jpeg" width="100%" /></div>
+          <div><a href="https://url.cn/57r4wfa" target="_blank"><img src="../static/images/qq2.jpg" width="100%"/></a></div>
+          <div><a href="https://url.cn/57r4wfa" target="_blank"><img src="../static/images/qq2.jpg" width="100%"/></a></div>
+          <div><a href="https://url.cn/57r4wfa" target="_blank"><img src="../static/images/qq2.jpg" width="100%"/></a></div>
         </div>
     )
  }

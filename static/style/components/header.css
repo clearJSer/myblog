@@ -1,14 +1,13 @@
 .header{
 	background-color: #fff;
-	padding: .4rem;
 	overflow: hidden;
 	height: 3.2rem;
-	border-bottom: 1px solid #ccc;
 }
 .logo{
 	font-size: 1.4rem;
 	color: red;
 	text-align: left;
+	line-height: 3.2rem;
 }
 .logo-text{
 	color: #999;
