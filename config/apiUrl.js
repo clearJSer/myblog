@@ -1,4 +1,6 @@
-let ipUrl = 'http://127.0.0.1:7001/default/' 
+// let ipUrl = 'http://127.0.0.1:7001/default/' 
+let ipUrl = 'http://152.136.195.13:7001/default/' 
+console.log(process.env)
 
 let servicePath = {
     getArticleList:ipUrl + 'getArticleList' ,  //  首页文章列表接口
