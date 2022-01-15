@@ -15,7 +15,7 @@
     "highlight.js": "^9.17.1",
     "lodash": "^4.17.15",
     "markdown-navbar": "^1.0.7",
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "next": "9.1.4",
     "react": "16.12.0",
     "react-dom": "16.12.0",
